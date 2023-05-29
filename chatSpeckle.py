@@ -41,8 +41,8 @@ data = st.container()
 
 #header 
 with header:
-    st.title('chatSpeckle feature 🗣️🔷')
-    st.info('This web app allows you to chat with your AEC data using Speckle and Open AI')
+    st.title('chatSpeckle 🗣️🔷')
+    st.info('This web app allows you to chat with your AEC data using Speckle and OpenAI')
 
 #inputs
 with input:
