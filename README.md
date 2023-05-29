@@ -1,9 +1,9 @@
 # 🗣️🔷 chatSpeckle (ai-feature-prototype)
 
-Experience the power of ai using pandasai, OpenAI, speckle and streamlit.
-This feacture is added on top of a past web app created in a speckle video tutorial called "Create Schedule from Revit Data", which you can follow first and, then, jump in this feature. 
+Experience the power of AI and Speckle using pandasai, OpenAI, specklepy and streamlit.
+This feature was built on top of a previous web app created in a speckle video tutorial called "Create Schedule from Revit Data", which you can follow as well.
 
-Otherwise, you can just clone the repository, run streamlit, add your own OpenAI key and write queries to chatSpeckle.
+Otherwise, you can just download/clone this repository, run streamlit, add your own OpenAI key and write queries to chatSpeckle.
 
 >What was built on top of "Create Schedule from Revit Data" web app?
 
